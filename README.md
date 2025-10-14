@@ -2,6 +2,7 @@
 Hello Everyone this is a Face Rcognition App created by me and my friend HarenRaj-Dev 
 
 ## 📈 GitHub Stats
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank200828&show_icons=true&theme=tokyonight)
 ![My Friend's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarenRaj-Dev&show_icons=true&theme=tokyonight)
 
 ## 🌐 Connect with My friend
